@@ -1,8 +1,8 @@
 # tsf-grip-internship-task
 
-DATA SCIENCE AND BUSINESS ANALYTICS INTERNSHIP
+DATA SCIENCE AND BUSINESS ANALYTICS INTERNSHIP AT THE SPARKS FOUNDATION
 
-Solution done by: NAYANA BM
+Solutions done by: NAYANA BM
 
 Task 1- Prediction using Supervised ML
 
